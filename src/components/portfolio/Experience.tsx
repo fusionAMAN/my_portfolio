@@ -13,9 +13,9 @@ const experienceItems = [
   {
     role: "Associate Software Engineer",
     company: "Nagarro",
-    period: "Nov 2025 - Present",
+    period: "Feb 2026 - Present",
     status: "Ongoing",
-    location: "India",
+    location: "Gurgram, Haryana",
     description:
       "Working on Data Engineering concepts and tools including Python, Docker, Databricks, and Azure.  Building and understanding data pipelines and ETL workflows for data processing.",
     highlights: [
